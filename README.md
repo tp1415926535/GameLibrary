@@ -4,8 +4,8 @@
 
 综合展示、启动所有的游戏库存，包括本地游戏、与平台游戏。目前需要自行添加
 
-## 下载 (v1.0.0.0)
-* [蓝奏云](https://wwp.lanzn.com/i4FzC21dbvxc)
+## 下载 (v1.0.0.1)
+* [蓝奏云](https://ww0.lanzn.com/irHQh276057i)
 
 ## 功能
 * 分类/平台分组、展开收起、筛选
@@ -16,3 +16,8 @@
 
 ![主题](https://github.com/tp1415926535/GameLibrary/raw/main/%E6%88%AA%E5%9B%BE/%E4%B8%BB%E9%A2%98.jpg)    
 ![编辑页](https://github.com/tp1415926535/GameLibrary/raw/main/%E6%88%AA%E5%9B%BE/%E7%BC%96%E8%BE%91%E9%A1%B5.jpg)
+
+
+## 更新日志
+* 2024-08-11 v1.0.0.1 搜索忽略大小写，粘贴自动执行搜索
+* 2024-06-09 v1.0.0.0 基本功能
